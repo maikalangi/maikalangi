@@ -1,2 +1,7 @@
 <h1 align="center">Hi! I'm Maika Langi</h1>
-I am a software engineer looking to help innovate in software tech of all kinds and also in the Web 3 space. My passion for learning and implementing new
+<p align='center'>Software Engineer|Creator/Artist</p>
+I'm looking to help innovate in software tech of all kinds and in the Web 3 space. I also make music and produce animations in the Adobe Cloud environment.
+Lets work together!
+[<img align="left" alt="Maika Langi | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/maika-langi-7ab038222/
