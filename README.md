@@ -3,6 +3,7 @@
   Creator|Artist</p>
 I'm looking to help innovate in software tech of all kinds with an inclination towards the Web 3 space. I also make music in Logic Pro X and animate and photoshop in the Adobe Cloud environment.
 
+
 Learn Schedule
 1. Python Web Stack - 6/27-7/20
 2. Data Structures, Algorithms, Big O - 7/20 - 8/26
